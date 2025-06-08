@@ -6,6 +6,7 @@ on:
     branches:
       - dev
       - master
+      - 0.17
     paths-ignore:
       - "docs/**"
 
